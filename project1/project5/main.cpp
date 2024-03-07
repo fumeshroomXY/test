@@ -1,0 +1,4 @@
+int main()
+{
+	Student stu;
+}

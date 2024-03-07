@@ -1,0 +1,7 @@
+project(project3)
+
+set(CMAKE_CXX_STANDARD 11)
+
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(project3 main.cpp)
